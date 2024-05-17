@@ -1,0 +1,64 @@
+<!--markdown tutoria-->
+Hey this is Sadman Sohan <br>
+This is my first markdown
+---
+# Sadman Sohan
+<p>I have complited my HSC at 2022. Now i am an undergraduate student at University Of Rajshahi. My department is ICE</p><hr>
+<i>This is a demo project</i> <br> 
+<b>I have a deep interest in Web Development</b><hr>
+<h3>Here are some language i know </h3>
+ HTML <br>
+
+```html
+<html>
+<head></head>
+<body></body>
+</html>
+```
+C++ <br>
+```c++
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"Hello World"<<endl;
+}
+```
+C
+
+```c
+#include<stdio.h>
+int main()
+{
+    printf("Hello World");
+    return 0;
+}
+```
+<br><hr>
+<h3>Ordered List</h3>
+1. Item1 <br>
+2. item2<br>
+3.Item3<br>
+<h3>Unordered List</h3>
+-Item1<br>
+-Item2<br><hr>
+<h3>Enable Automatic Link</h3>
+
+http://www.studywithanis.com
+
+<br>
+<h3>Disable Automatic Link</h3>
+
+`http://www.studywithanis.com`<hr>
+
+<h3>Markdown Link Syntax</h3>
+
+[studywithanis](http://www.studywithanis.com) <hr>
+
+<h3>Image Syntax</h3>
+<img src="./img/sohan.jpeg" width="400" tittle="Pic of Twilight">
+
+
+
+
+
