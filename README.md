@@ -56,7 +56,32 @@ http://www.studywithanis.com
 [studywithanis](http://www.studywithanis.com) <hr>
 
 <h3>Image Syntax</h3>
-<img src="./img/sohan.jpeg" width="400" tittle="Pic of Twilight">
+<img src="./img/sohan.jpeg" width="400" title="Pic of Twilight"><br>
+😍<br><hr>
+<h3>Table Syntax</h3><br>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Roll</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sadman</td>
+<td>143</td>
+</tr>
+<tr>
+<td>Hasibur</td>
+<td>105</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
 
 
 
